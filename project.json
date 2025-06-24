@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/ua6dx/esp/main/firmware.bin",
+          "path": "https://github.com/ua6dx/esp/blob/main/firmware.bin",
           "offset": 0
         }
       ]
