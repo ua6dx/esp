@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/ua6dx/esp/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/ua6dx/esp/main/firmware.bin",
           "offset": 0
         }
       ]
