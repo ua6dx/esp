@@ -1,14 +1,14 @@
 {
   "name": "Название проекта",
   "about": "Краткое описание проекта",
-  "version": "1.0",
+  "version": "1.5",
   "notes": "Комментарии к обновлению",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/ua6dx/esp/main/firmware.bin",
+          "path": "https://github.com/ua6dx/esp/main/firmware.bin",
           "offset": 0
         }
       ]
